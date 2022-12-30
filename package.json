@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mocha": "^8.1.0"
+    "mocha": "^8.4.0"
   }
 }
